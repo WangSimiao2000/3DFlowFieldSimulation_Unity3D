@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1b84e59f631438c428c55a45a76406d9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - ShanghaiFace-RockGB-Flash
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 51f45c5c5e6c8dc448367e412e588d5a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
